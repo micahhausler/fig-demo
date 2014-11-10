@@ -1,0 +1,2 @@
+-r base.txt
+mkdocs==0.10

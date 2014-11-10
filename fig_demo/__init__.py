@@ -1,0 +1,1 @@
+from fig_demo.celery import project_celery  # flake8: noqa
